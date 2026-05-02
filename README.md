@@ -4,7 +4,7 @@
 Open source maintainers and developers who have no easy way to track which projects are getting GitHub traction vs. which are getting funded. 
 
 ## Core Question:
-"Which impactful project deserves my contribution?" 
+"Which impactful project deserves my contribution?". The app aims at reducing the information asymmetry between traction and funding in open source repositories.
 
 ## What does “impactful project” mean? 
 GitHub Traction signal ranking: Forks > Open Issues > Stars. Minimum viability filter hardcoded in dbt (see known limitations below)
