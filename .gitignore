@@ -16,8 +16,5 @@ __pycache__/
 
 # Personal reference files
 open_source_pulse_project_outline.odt
-project_hierarchy.txt
 who_does_what.png
-
-# Git Commands to run at the beginning of each session 
-Standard_opening_commands.txt
+*.txt
