@@ -14,7 +14,6 @@ Yes, there are three main known limitations to bear in mind:
 - GitHub stars ≠ real-world importance
 - Forks are partially noisy (e.g., tutorials, classrooms) 
 - Some funding ≠ well-funded
-- Working assumption for the Minimum Viability Filter: 50 stars and 10 forks
 - Contributor count was excluded from the traction score due to API rate limit constraints and ambiguous signal value
 
 ## What we'll build:
