@@ -15,6 +15,4 @@ __pycache__/
 .DS_Store
 
 # Personal reference files
-open_source_pulse_project_outline.odt
-who_does_what.png
-*.txt
+personal_reference_notes/
